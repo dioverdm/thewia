@@ -1,0 +1,10 @@
+{
+  "name": "msrbot",
+  "version": "1.0.0",
+  "description": "AI Chatbot",
+  "main": "script.js",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "node-fetch": "^2.6.1"
+  }
+}
